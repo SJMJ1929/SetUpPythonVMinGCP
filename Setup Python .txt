@@ -1,0 +1,11 @@
+Setup ssh
+sudo apt-get update
+
+Install Python
+sudo apt-get install python-setuptools python-dev build-essential
+
+Install Pip
+sudo easy_install pip
+
+
+
